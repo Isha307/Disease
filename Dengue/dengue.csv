@@ -1,0 +1,109 @@
+p_i_d,date_of_fever,residence,days,current_temp,wbc,servere_headche,pain_behind_the_eyes,joint_muscle_aches,metallic_taste_in_the_mouth,appetite_loss,addominal_pain,nausea_vomiting,diarrhoea,hemoglobin,hematocri,platelet,dengue
+P012,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P011,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P010,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P009,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P008,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P007,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P006,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P005,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P100,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P099,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P098,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P097,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P096,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P095,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P094,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P093,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P092,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P091,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P090,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P089,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P088,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P087,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P086,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P085,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P084,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P083,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P082,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P081,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P080,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P079,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P078,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P077,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P076,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P075,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P074,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P073,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P072,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P071,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P070,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P069,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P068,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P067,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P066,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P065,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P064,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P063,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P062,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P061,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P060,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P059,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P058,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P057,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P056,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P055,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P054,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P053,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P052,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P051,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P050,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P049,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P048,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P047,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P046,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P045,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P044,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P043,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P042,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P041,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P040,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P039,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P038,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P037,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P036,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P035,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P034,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P033,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P032,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P031,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P030,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P029,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P028,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P027,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P026,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P025,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P024,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P023,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P022,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P021,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P020,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P019,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P018,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P017,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P016,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P015,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P014,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P013,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
+P012,13-Jan,Bangalore,10 days,100,5,yes,no,no,yes,yes,yes,no,yes,15,NULL,140,yes
+P011,13-Feb,New Delhi,4 days,104,1,no,yes,yes,no,no,no,no,no,9,22,80,no
+P010,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P009,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P008,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P007,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P006,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P005,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P004,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P003,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P002,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P001,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
