@@ -16,7 +16,6 @@ from sklearn.metrics import classification_report, confusion_matrix
 from tensorflow.keras.models import load_model
 import pickle
 from PIL import Image
-from tensorflow.keras.models import load_model
 
 dir="TB"
 
